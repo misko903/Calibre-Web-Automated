@@ -2992,7 +2992,7 @@ msgstr "Stav archivácie"
 #: cps/templates/admin.html:211
 #, fuzzy
 msgid "Setup KOReader Sync"
-msgstr "čítačka epub"
+msgstr "Nastaviť synchronizáciu KOReader"
 
 #: cps/templates/admin.html:214
 msgid "CWA Library Conversion Service"
@@ -5775,7 +5775,7 @@ msgstr "Vydané"
 #: cps/templates/detail.html:793
 #, fuzzy
 msgid "KOReader Progress"
-msgstr "Pokrok"
+msgstr "Pokrok v KOReader"
 
 #: cps/templates/detail.html:863 cps/templates/listenmp3.html:177
 msgid "Description:"
