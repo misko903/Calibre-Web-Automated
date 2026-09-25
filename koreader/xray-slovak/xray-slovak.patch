@@ -3992,7 +3992,7 @@ index 0000000..520fb92
 +msgstr "Áno"
 diff --git a/xray.koplugin/prompts/cs.lua b/xray.koplugin/prompts/cs.lua
 new file mode 100644
-index 0000000..30abea1
+index 0000000..2cd3636
 --- /dev/null
 +++ b/xray.koplugin/prompts/cs.lua
 @@ -0,0 +1,392 @@
@@ -4119,7 +4119,7 @@ index 0000000..30abea1
 +      "name": "Celé formální jméno",
 +      "aliases": ["Alias 1", "Alias 2"],
 +      "role": "Krátké označení archetypu (3–5 slov, např. 'Antagonista', 'Protagonista', 'Oběť')",
-+      "gender": "Male / Female / Unknown",
++      "gender": "Muž / Žena / Neznámé",
 +      "occupation": "Povolání/postavení",
 +      "description": "Popis PŘÍSNĚ podle poskytnutého textu. Nevyvozuj ani nepřidávej externí znalosti. ŽÁDNÉ SPOILERY. (Max. {MAX_CHAR_DESC} znaků)"
 +    }
@@ -4178,7 +4178,7 @@ index 0000000..30abea1
 +      "name": "Celé formální jméno",
 +      "aliases": ["Alias 1", "Alias 2"],
 +      "role": "Krátké označení archetypu (3–5 slov, např. 'Antagonista', 'Protagonista', 'Oběť')",
-+      "gender": "Male / Female / Unknown",
++      "gender": "Muž / Žena / Neznámé",
 +      "occupation": "Povolání/postavení",
 +      "description": "Popis PŘÍSNĚ podle poskytnutého textu. Nevyvozuj ani nepřidávej externí znalosti. ŽÁDNÉ SPOILERY. (Max. {MAX_CHAR_DESC} znaků)"
 +    }
@@ -4235,7 +4235,7 @@ index 0000000..30abea1
 +    "name": "Celé jméno",
 +    "aliases": ["Alias 1", "Alias 2"],
 +    "role": "Krátké označení archetypu (3–5 slov, např. 'Antagonista', 'Protagonista', 'Oběť')",
-+    "gender": "Male/Female/Unknown",
++    "gender": "Muž/Žena/Neznámé",
 +    "occupation": "Povolání",
 +    "description": "Krátký popis (MAX. 250 znaků)"
 +  },
@@ -4390,7 +4390,7 @@ index 0000000..30abea1
 +}
 diff --git a/xray.koplugin/prompts/sk.lua b/xray.koplugin/prompts/sk.lua
 new file mode 100644
-index 0000000..c8ef010
+index 0000000..caf8e1e
 --- /dev/null
 +++ b/xray.koplugin/prompts/sk.lua
 @@ -0,0 +1,392 @@
@@ -4517,7 +4517,7 @@ index 0000000..c8ef010
 +      "name": "Celé formálne meno",
 +      "aliases": ["Alias 1", "Alias 2"],
 +      "role": "Krátke označenie archetypu (3–5 slov, napr. 'Antagonista', 'Protagonista', 'Obeť')",
-+      "gender": "Male / Female / Unknown",
++      "gender": "Muž / Žena / Neznáme",
 +      "occupation": "Povolanie/postavenie",
 +      "description": "Popis PRÍSNE podľa poskytnutého textu. Nevyvodzuj ani nepridávaj externé znalosti. ŽIADNE SPOILERY. (Max. {MAX_CHAR_DESC} znakov)"
 +    }
@@ -4576,7 +4576,7 @@ index 0000000..c8ef010
 +      "name": "Celé formálne meno",
 +      "aliases": ["Alias 1", "Alias 2"],
 +      "role": "Krátke označenie archetypu (3–5 slov, napr. 'Antagonista', 'Protagonista', 'Obeť')",
-+      "gender": "Male / Female / Unknown",
++      "gender": "Muž / Žena / Neznáme",
 +      "occupation": "Povolanie/postavenie",
 +      "description": "Popis PRÍSNE podľa poskytnutého textu. Nevyvodzuj ani nepridávaj externé znalosti. ŽIADNE SPOILERY. (Max. {MAX_CHAR_DESC} znakov)"
 +    }
@@ -4633,7 +4633,7 @@ index 0000000..c8ef010
 +    "name": "Celé meno",
 +    "aliases": ["Alias 1", "Alias 2"],
 +    "role": "Krátke označenie archetypu (3–5 slov, napr. 'Antagonista', 'Protagonista', 'Obeť')",
-+    "gender": "Male/Female/Unknown",
++    "gender": "Muž/Žena/Neznáme",
 +    "occupation": "Povolanie",
 +    "description": "Krátky popis (MAX. 250 znakov)"
 +  },
